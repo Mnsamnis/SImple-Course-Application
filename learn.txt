@@ -1,0 +1,2 @@
+This learn project is the backed application.
+Java Springboot and MySQL is used to create this application.
